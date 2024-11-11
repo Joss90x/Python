@@ -20,4 +20,4 @@ print(f' Dobro: {n*2}\n Triplo: {n*3}\n Raiz quadrada: {n**0.5:.2f}')
     # 3. :.2f é como uma mágica que faz os números ficarem mais bonitinhos!
  #    Imagine que você tem um número grande com muitos números depois da vírgula,
  #    tipo 3,14159265... Essa mágica faz com que só apareçam dois números depois da vírgula,
- #    então fica 3,14. É como se estivéssemos arredondando o número para ficar mais fácil de ler!
+ #    então fica 3,14. É como se estivéssemos arredondando o número para ficar mais fácil de ler! 

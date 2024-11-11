@@ -1,5 +1,4 @@
 # Programa para mostrar o sucessor e antecessor de um número inteiro
-
 # Lê um número inteiro do usuário
 # Esta linha solicita ao usuário que digite um número inteiro
 # A função input() exibe a mensagem e espera que o usuário digite algo
